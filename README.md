@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kavzy&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kavzy&count_private=true&theme=tokyonight">
 
 ### Hi there I'm Kaveesha Ekanayaka 👋
 
