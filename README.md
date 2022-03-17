@@ -9,6 +9,6 @@
   
 👨‍💻 22 Years old Developer  
 👨‍🎓  Learning Software Engineering  
-✏️ **Current Project:** Blood Donate App
+
 
 
