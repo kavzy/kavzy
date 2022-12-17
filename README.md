@@ -7,8 +7,7 @@
 [![x@kaveesha.lk](https://img.shields.io/static/v1?label=x@kaveesha.lk&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:x@kaveesha.lk)
   
   
-👨‍💻 22 Years old Developer  
-👨‍🎓  Learning Software Engineering  
+
 
 
 
